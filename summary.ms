@@ -2,8 +2,87 @@
 CSIRO Unix ports
 .AU
 Jonathan Gray
+.PP
+The Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+is an Australian Government agency.
 .NH
 Unison SIRONIX
+.SH
+Siromath
+.PP
+Siromath Pty Ltd was founded in 1981 as a mathematics consulting company.
+Previously the CSIRO Division of Mathematics and Statistics (DMS)
+did some consulting to private industry.
+.[
+thomson 1982
+.]
+Siromath went into receivership in 1989.
+.[
+afr 1989
+.]
+.PP
+Siromath ported its version of Unix called Sironix to Unison.
+.[
+amcll 1983
+.]
+Sironix for the Unison was based on Seventh Edition Unix and System III.
+.[
+amcad 1983
+.]
+.SH
+Information Mechanics Incorporated
+.PP
+William Hollier (who had worked at the University of Melbourne
+Department of Computer Science)
+designed the Unison computer in 1981.
+.[
+etia 1983
+.]
+.[
+amcll 1983
+.]
+Hollier's company was
+Information Mechanics Incorporated Pty Ltd (IMI).
+.[
+amcll 1983
+.]
+.PP
+According to Hollier colleagues at the University of Melbourne ported
+Unix to the Unison.
+.[
+holliercv
+.]
+.SH
+L & L Australia
+.PP
+L & L Australia Pty Ltd was founded by Corrie de Waard.
+.[
+amcll 1983
+.]
+L & L was formed as a merger of a company that sold computerised
+petrol pumps and Kelvinator Australia, which at the time was a
+susidiary of Email Ltd.
+.[
+amcll 1983
+.]
+Kelvinator Australia became a subsidiary of Email Ltd
+on 24 January 1980.
+.[
+Canberra 1980
+.]
+L & L Australia was later renamed to Email Electronics Pty Ltd.
+.[
+nsc 1989
+.]
+.PP
+L & L purchased Australian manufacturing rights to Unison.
+.[
+amcll 1983
+.]
+The Unison machines were made by L & L in Kilsyth, a suburb of Melbourne.
+.[
+amcuni 1983
+.]
 .NH
 Micronode System V/68
 .SH

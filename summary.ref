@@ -1,3 +1,48 @@
+%T Email earnings 'encouraging'
+%J The Canberra Times
+%D May 1980
+%P 17
+%O http://nla.gov.au/nla.news-article110955380
+
+%T Speech at Siromath Launch
+%A David Thomson
+%D February 1982
+%O https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p; query=Id%3A%22media%2Fpressrel%2FHNC062016287447%22
+
+%T Loan helps build super microcomputer
+%J Electronics Today International, Australia
+%P 71
+%D January 1983
+%O https://archive.org/details/ETIA1983/ETI%201983-01%20January/page/n69/mode/2up
+%K etia
+
+%T L & L Australia
+%J Australian Microcomputer Magazine
+%V 1
+%N 7
+%D October 1983
+%P 73
+%K amcll
+%O https://archive.org/details/australian_microcomputer_magazine-1983_10/page/72/mode/2up
+
+%T The building blocks for a super system
+%J Australian Microcomputer Magazine
+%V 1
+%N 7
+%D October 1983
+%P 81
+%K amcad
+%O https://archive.org/details/australian_microcomputer_magazine-1983_10/page/80/mode/2up
+
+%T They're growing in Unison
+%J Australian Microcomputer Magazine
+%V 1
+%N 7
+%D October 1983
+%P 96-99
+%K amcuni
+%O https://archive.org/details/australian_microcomputer_magazine-1983_10/page/80/mode/2up
+
 %T Staking their claims
 %J Datamation
 %V 30
@@ -11,6 +56,18 @@
 %P 47
 %O https://archive.org/details/yc198507/page/46/mode/2up
 %D July 1985
+
+%T Email Omega 2000 Series Model BLC 80 Flowmeterlng System Controller
+%A National Standards Commission
+%D August 1989
+%K nsc
+%O https://www.industry.gov.au/sites/default/files/nmi/certificates-approval/S191.pdf
+
+%T Numbers don't add up
+%J Australian Financial Review
+%K afr
+%D December 1989
+%O https://www.afr.com/companies/numbers-dont-add-up-19891222-kaivw
 
 %T fmake \(em A Tool in Support of a Policy for Management of Things
 %A Greg Rose
@@ -57,3 +114,8 @@
 %K itnews
 %D February 2007
 %O https://www.itnews.com.au/news/citrix-acquires-sydney-based-aurema-73370
+
+%T Linkedin profile
+%A William Hollier
+%K holliercv
+%O https://au.linkedin.com/in/william-hollier-7a219896
