@@ -68,7 +68,7 @@ amcll 1983
 .]
 L & L was formed as a merger of a company that sold computerised
 petrol pumps and Kelvinator Australia, which at the time was a
-susidiary of Email Ltd.
+subsidiary of Email Ltd.
 .[
 amcll 1983
 .]
@@ -120,7 +120,7 @@ The initial Micronode machines were deployed on CSIRONET in mid-1983.
 .[
 dcrar 1983
 .]
-It was decided to create an enhanced version of the Micronet
+It was decided to create an enhanced version of the Micronode
 hardware that could function as a Unix workstation.
 .[
 dcrar 1983
