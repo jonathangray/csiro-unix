@@ -1,13 +1,57 @@
+%T Newsletter
+%A CSIRO Division of Computing Research
+%N 28
+%D October 1967
+%O https://csiropedia.csiro.au/wp-content/uploads/2019/08/CSIRO.DCR_.Newsletter.no_.28.pdf
+%K dcrnl
+
 %T Email earnings 'encouraging'
 %J The Canberra Times
 %D May 1980
 %P 17
 %O http://nla.gov.au/nla.news-article110955380
 
+%T The UNIX timesharing system in DMS
+%J DMS Newsletter
+%N 70
+%D November 1980
+%K dmsnl
+%O https://csiropedia.csiro.au/wp-content/uploads/2019/08/csiro.dms_.newsletter.no_.7.UNIX_.pdf
+
 %T Speech at Siromath Launch
 %A David Thomson
 %D February 1982
 %O https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p; query=Id%3A%22media%2Fpressrel%2FHNC062016287447%22
+
+%T Annual Report
+%A CSIRO DCR
+%P 27
+%D 1979-1980
+%K dcrar
+
+%T Annual Report
+%A CSIRO DCR
+%P 14
+%D 1981-1982
+%K dcrar
+
+%T Annual Report
+%A CSIRO DCR
+%P 38-41
+%D 1983-1984
+%K dcrar
+
+%T Annual Report
+%A CSIRONET
+%P 20-21
+%D 1984-1985
+%K cnar
+
+%T Annual Report
+%A CSIRONET
+%P 12-19
+%D 1985-1986
+%K cnar
 
 %T Loan helps build super microcomputer
 %J Electronics Today International, Australia
@@ -51,11 +95,34 @@
 %P 96
 %D October 1984
 
+%T Library link made
+%J CoResearch
+%N 273
+%P 6
+%D Oct/Sep 1984
+%O https://csiropedia.csiro.au/wp-content/uploads/2018/09/coresearch_1984.pdf
+%K coresearch
+
+%T New joint venture
+%J CoResearch
+%N 299
+%P 3
+%D February 1987
+%O https://csiropedia.csiro.au/wp-content/uploads/2018/09/coresearch_1987.pdf
+%K coresearch
+
 %T NEOLOGY \(em A Local Hero
 %J Your Computer
 %P 47
 %O https://archive.org/details/yc198507/page/46/mode/2up
 %D July 1985
+
+%T Csironet and Techway attack global markets
+%J Communications World
+%D February 1987
+%P 16
+%K cw
+%O https://archive.org/details/communications_world/communications_world_87_02/page/16/mode/2up
 
 %T Email Omega 2000 Series Model BLC 80 Flowmeterlng System Controller
 %A National Standards Commission
@@ -119,3 +186,10 @@
 %A William Hollier
 %K holliercv
 %O https://au.linkedin.com/in/william-hollier-7a219896
+
+%T CSIRO Computing History, Chapter 3
+%K csiropedia-ch3
+%A Robert C. Bell
+%J CSIROpedia
+%D August 2019
+%O https://csiropedia.csiro.au/csiro-computing-history-chapter-3/#1967

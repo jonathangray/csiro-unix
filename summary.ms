@@ -21,6 +21,13 @@ Siromath went into receivership in 1989.
 afr 1989
 .]
 .PP
+In 1980, DMS were running a version of Six Edition Unix
+developed by the Universities of New South Wales and Sydney.
+The Australian UNIX Share Access Method (AUSAM).
+.[
+dmsnl 70
+.]
+.PP
 Siromath ported its version of Unix called Sironix to Unison.
 .[
 amcll 1983
@@ -86,10 +93,77 @@ amcuni 1983
 .NH
 Micronode System V/68
 .SH
+CSIRONET
+.PP
+In 1967, the CSIRO Computing Research Section was renamed to
+the Division of Computing Research (DCR).
+.[
+dcrnl 1967
+.]
+The DCR maintained the CSIRO Computing Network (SIRONET, later CSIRONET).
+.[
+csiropedia-ch3
+.]
+In January 1985 the DCR was split into multiple organisations.
+CSIRONET for the computing service,
+and the Division of Information Technology (DIT).
+.PP
+It was decided to replace the PDP-11 CSIRONET nodes with
+a Motorola 68000 based design.
+.[
+csiropedia-ch3
+.]
+.[
+dcrar 1979
+.]
+The initial Micronode machines were deployed on CSIRONET in mid-1983.
+.[
+dcrar 1983
+.]
+It was decided to create an enhanced version of the Micronet
+hardware that could function as a Unix workstation.
+.[
+dcrar 1983
+.]
+Siromath Pty Ltd was to be involved in developing Unix for the
+workstation hardware.
+.[
+dcrar 1983
+.]
+.SH 
+Office Automation
+.PP
+Office Automation was acquired by Techway Ltd in 1986.
+.[
+cw 1987
+.]
+.[
+cnar 1985-1986
+.]
+.PP
+Office Automation Pty Ltd of Canberra won a tender to build the Micronode.
+.[
+dcrar 1981
+.]
+It was jointly developed with DCR.
+.[
+coresearch 1984
+.]
+In 1987, CSIRONET and Techway Ltd created a joint venture
+called Network Automation Pty Ltd.  Network Automation was
+to commercially market the Micronode hardware as the Ultranode.
+.[
+cw 1987
+.]
+.[
+coresearch 1987
+.]
+.SH
 Neology
 .PP
-Fawnray Pty Ltd was founded in April 1980 by Greg Rose, John O'Brien and Allan More as
-an Australian distributor of Whitesmiths Ltd's Idris operating system.
+Fawnray Pty Ltd was founded in April 1980 by Greg Rose, John O'Brien and
+Allan More as an Australian distributor of Whitesmiths Ltd's Idris
+operating system.
 .[
 Booth 1993
 .]
@@ -121,6 +195,9 @@ A port of Unix System V/68 to the proposed CSIRONET workstation was
 started.
 .[
 Rose 1992
+.]
+.[
+cnar 1984
 .]
 System V Release 2.
 .[
