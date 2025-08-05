@@ -58,10 +58,16 @@ Information Mechanics Incorporated Pty Ltd (IMI).
 amcll 1983
 .]
 .PP
-According to Hollier colleagues at the University of Melbourne ported
+Hollier says colleagues at the University of Melbourne ported
 Unix to the Unison.
 .[
 holliercv
+.]
+.PP
+According to Peter Thorne the Unison computer was developed by
+Jurij Semkiw, Robert Elz and others including Steven Lynch and Michael Flower.
+.[
+unimelb jurij
 .]
 .SH
 L & L Australia
