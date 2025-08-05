@@ -94,6 +94,11 @@ The Unison machines were made by L & L in Kilsyth, a suburb of Melbourne.
 .[
 amcuni 1983
 .]
+They were 8 MHz Motorola 68000 based machines in Eurocard compatible cabinets.
+.[
+amcuni 1983
+.]
+Unison D10 with 10 slots, and Unison D21 with 21 slots.
 .NH
 Micronode System V/68
 .SH
