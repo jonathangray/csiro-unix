@@ -31,13 +31,19 @@
 
 %T Annual Report
 %A CSIRO DCR
-%P 14
+%P 17
 %D 1981-1982
 %K dcrar
 
 %T Annual Report
 %A CSIRO DCR
-%P 38-41
+%P 89-92
+%D 1982-1983
+%K dcrar
+
+%T Annual Report
+%A CSIRO DCR
+%P 28-31
 %D 1983-1984
 %K dcrar
 
@@ -49,9 +55,15 @@
 
 %T Annual Report
 %A CSIRONET
-%P 12-19
+%P 15
 %D 1985-1986
 %K cnar
+
+%T Annual Report
+%A CSIRO DMS
+%P 67
+%D 1982
+%K dmsar
 
 %T Loan helps build super microcomputer
 %J Electronics Today International, Australia

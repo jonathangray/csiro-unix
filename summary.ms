@@ -28,14 +28,19 @@ The Australian UNIX Share Access Method (AUSAM).
 dmsnl 70
 .]
 .PP
-Siromath ported its version of Unix called Sironix to Unison.
+Siromath ported its version of Unix called SIRONIX to Unison.
 .[
 amcll 1983
 .]
-Sironix for the Unison was based on Seventh Edition Unix and System III.
+SIRONIX for the Unison was based on Seventh Edition Unix and System III.
 .[
 amcad 1983
 .]
+The 1982 DMS annual report describes SIRONIX as a distribution of System III.
+.[
+dmsar 1982
+.]
+.PP
 DMS had Motorola 68000 based Unity machines made by Digital Electronics Pty Ltd.
 .[
 hales 1987
@@ -129,21 +134,28 @@ a Motorola 68000 based design.
 csiropedia-ch3
 .]
 .[
-dcrar 1979
+dcrar 1979-1980
 .]
 The initial Micronode machines were deployed on CSIRONET in mid-1983.
 .[
-dcrar 1983
+dcrar 1983-1984
 .]
 It was decided to create an enhanced version of the Micronode
 hardware that could function as a Unix workstation.
 .[
-dcrar 1983
+dcrar 1983-1984
 .]
 Siromath Pty Ltd was to be involved in developing Unix for the
 workstation hardware.
 .[
-dcrar 1983
+dcrar 1983-1984
+.]
+.PP
+The initial Micronode machines used a 8 MHz Motorola 68000 with 256 kB of memory.
+There was a VERSAbus card cage for up to 6 cards.
+One of which was the CPU board.
+.[
+dcrar 1982-1983
 .]
 .SH
 Techway
@@ -189,7 +201,7 @@ datamation 1987
 .PP
 Office Automation Pty Ltd of Canberra won a tender to build the Micronode.
 .[
-dcrar 1981
+dcrar 1981-1982
 .]
 It was jointly developed with DCR.
 .[
