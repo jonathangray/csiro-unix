@@ -28,6 +28,24 @@ The Australian UNIX Share Access Method (AUSAM).
 dmsnl 70
 .]
 .PP
+The 1982 DMS annual report describes SIRONIX as a distribution of System III.
+.[
+dmsar 1982
+.]
+Chris Rowles was head of the Unix Group at Siromath.
+.[
+csironetnl 168
+.]
+Richard Tweedie gave an overview of SIRONIX which
+mentioned Siromath would be offering binary licenses.
+.[
+csironetnl 169
+.]
+SIRONIX was initially available for PDP-11, VAX, and Unison machines.
+.[
+csironetnl 169
+.]
+.PP
 Siromath ported its version of Unix called SIRONIX to Unison.
 .[
 amcll 1983
@@ -35,10 +53,6 @@ amcll 1983
 SIRONIX for the Unison was based on Seventh Edition Unix and System III.
 .[
 amcad 1983
-.]
-The 1982 DMS annual report describes SIRONIX as a distribution of System III.
-.[
-dmsar 1982
 .]
 .PP
 DMS had Motorola 68000 based Unity machines made by Digital Electronics Pty Ltd.
