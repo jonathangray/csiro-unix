@@ -36,6 +36,10 @@ Sironix for the Unison was based on Seventh Edition Unix and System III.
 .[
 amcad 1983
 .]
+DMS had Motorola 68000 based Unity machines made by Digital Electronics Pty Ltd.
+.[
+hales 1987
+.]
 .SH
 Information Mechanics Incorporated
 .PP
