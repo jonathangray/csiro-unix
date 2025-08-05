@@ -139,6 +139,30 @@ workstation hardware.
 .[
 dcrar 1983
 .]
+.SH
+Techway
+.PP
+Techway was founded in 1979 by Peter Jones.
+.[
+canberra 1986
+.]
+.[
+pearcey 1998
+.]
+Techway listed on the Australian Stock Exchange in 1993.
+.[
+pearcey 1998
+.]
+The company was sold to Intellect in 1997 who closed it.
+.[
+acs 2017
+.]
+.PP
+Techway sold an ELXSI 6400 computer to the Australian
+Department of Defence in 1984.
+.[
+navy 1984
+.]
 .SH 
 Office Automation
 .PP
@@ -148,6 +172,9 @@ cw 1987
 .]
 .[
 cnar 1985-1986
+.]
+.[
+canberra 1986
 .]
 It was renamed to Network Research.
 .[
@@ -170,6 +197,10 @@ cw 1987
 .]
 .[
 coresearch 1987
+.]
+Network Automation closed in 1993.
+.[
+gazette 1993
 .]
 .SH
 Neology

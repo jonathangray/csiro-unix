@@ -111,11 +111,26 @@
 %O https://csiropedia.csiro.au/wp-content/uploads/2018/09/coresearch_1987.pdf
 %K coresearch
 
+%T Our new computer
+%J Royal Australian Navy News
+%D May 1984
+%V 27
+%N 8
+%P 3
+%O http://nla.gov.au/nla.news-article267089825
+
 %T NEOLOGY \(em A Local Hero
 %J Your Computer
 %P 47
 %O https://archive.org/details/yc198507/page/46/mode/2up
 %D July 1985
+
+%T Sydney-based Techway buys Canberra Firm
+%A Colin Brammall
+%J The Canberra Times 
+%P 17
+%D April 1986
+%O http://nla.gov.au/nla.news-article118199584
 
 %T Csironet and Techway attack global markets
 %J Communications World
@@ -163,6 +178,13 @@
 %J Proc. AUUG Conference
 %D September 1992
 
+%T Notice of application relating to NETWORK AUTOMATION PTY LTD
+%J Government Gazette of the State of New South Wales
+%N 21
+%D March 1993
+%P 977
+%O http://nla.gov.au/nla.news-article231935979
+
 %T The Electronic Interviews
 %A Adrian Booth
 %A Greg Rose
@@ -177,6 +199,10 @@
 %J Proc. AUUG Conference
 %P 115-117
 %D September 1994
+
+%T 1998 Pearcey Medal
+%I Pearcey Foundation
+%O https://www.pearcey.org.au/awards/national/pearcey-medal/1998-pearcey-medal/
 
 %T About Us
 %A Whitesmiths Australia
@@ -208,6 +234,12 @@
 %A William Hollier
 %K holliercv
 %O https://au.linkedin.com/in/william-hollier-7a219896
+
+%T A Vision Splendid: The History of the Australian Computer Industry
+%A Graeme Philipson
+%I Australian Computer Society
+%K acs
+%D 2017
 
 %T CSIRO Computing History, Chapter 3
 %K csiropedia-ch3
