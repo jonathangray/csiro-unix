@@ -154,22 +154,31 @@ The initial Micronode machines were deployed on CSIRONET in mid-1983.
 .[
 dcrar 1983-1984
 .]
+The initial Micronode machines used a 8 MHz Motorola 68000 with 256 kB of memory.
+There was a VERSAbus card cage for up to 6 cards.
+One of which was the CPU board.
+.[
+dcrar 1982-1983
+.]
+.PP
 It was decided to create an enhanced version of the Micronode
 hardware that could function as a Unix workstation.
 .[
 dcrar 1983-1984
+.]
+The workstation project was announced in August 1983.
+.[
+csironetnl 172
 .]
 Siromath Pty Ltd was to be involved in developing Unix for the
 workstation hardware.
 .[
 dcrar 1983-1984
 .]
-.PP
-The initial Micronode machines used a 8 MHz Motorola 68000 with 256 kB of memory.
-There was a VERSAbus card cage for up to 6 cards.
-One of which was the CPU board.
+At the end of 1983 it was planned for the workstations to
+run 4.2BSD from Siromath.
 .[
-dcrar 1982-1983
+csironetnl 174
 .]
 .SH
 Techway
