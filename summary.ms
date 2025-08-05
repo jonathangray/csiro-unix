@@ -149,6 +149,10 @@ cw 1987
 .[
 cnar 1985-1986
 .]
+It was renamed to Network Research.
+.[
+datamation 1987
+.]
 .PP
 Office Automation Pty Ltd of Canberra won a tender to build the Micronode.
 .[
