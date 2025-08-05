@@ -224,6 +224,11 @@ Booth 1993
 .[
 Rose 1992
 .]
+Techway had a 60% stake in the company which was sold off
+in 1991.
+.[
+afr 1991
+.]
 Softway was renamed to Aurema Pty Ltd in 1999.
 .[
 softway 1999
