@@ -125,7 +125,7 @@ amcuni 1983
 .]
 Unison D10 with 10 slots, and Unison D21 with 21 slots.
 .NH
-Micronode System V/68
+Micronode workstation, System V/68
 .SH
 CSIRONET
 .PP
@@ -154,7 +154,7 @@ The initial Micronode machines were deployed on CSIRONET in mid-1983.
 .[
 dcrar 1983-1984
 .]
-The initial Micronode machines used a 8 MHz Motorola 68000 with 256 kB of memory.
+Micronodes used a 8 MHz Motorola 68000 with 256 kB of memory.
 There was a VERSAbus card cage for up to 6 cards.
 One of which was the CPU board.
 .[
