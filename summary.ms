@@ -6,7 +6,7 @@ Jonathan Gray
 The Commonwealth Scientific and Industrial Research Organisation (CSIRO)
 is an Australian Government agency.
 .NH
-Unison SIRONIX
+Unison, SIRONIX
 .SH
 Siromath
 .PP
@@ -15,6 +15,10 @@ Previously the CSIRO Division of Mathematics and Statistics (DMS)
 did some consulting to private industry.
 .[
 thomson 1982
+.]
+Dr Richard Tweedie resigned from DMS to become General Manager of Siromath.
+.[
+coresearch 259
 .]
 Siromath went into receivership in 1989.
 .[
@@ -36,7 +40,7 @@ Chris Rowles was head of the Unix Group at Siromath.
 .[
 csironetnl 168
 .]
-Richard Tweedie gave an overview of SIRONIX which
+An overview of SIRONIX
 mentioned Siromath would be offering binary licenses.
 .[
 csironetnl 169
@@ -125,7 +129,7 @@ amcuni 1983
 .]
 Unison D10 with 10 slots, and Unison D21 with 21 slots.
 .NH
-Micronode workstation, System V/68
+CSIRONET workstation, System V/68
 .SH
 CSIRONET
 .PP
@@ -136,17 +140,22 @@ dcrnl 1967
 .]
 The DCR maintained the CSIRO Computing Network (SIRONET, later CSIRONET).
 .[
-csiropedia-ch3
+coresearch 157
 .]
 In January 1985 the DCR was split into multiple organisations.
 CSIRONET for the computing service,
 and the Division of Information Technology (DIT).
+CSIRONET was privatised in 1987 and became known as PAXUS ComNet.
+.[
+canberra 1989
+.]
+PAXUS ComNet closed in 2000.
+.[
+gazette 2000
+.]
 .PP
 It was decided to replace the PDP-11 CSIRONET nodes with
 a Motorola 68000 based design.
-.[
-csiropedia-ch3
-.]
 .[
 dcrar 1979-1980
 .]
@@ -309,8 +318,7 @@ Booth 1993
 .[
 Rose 1992
 .]
-Techway had a 60% stake in the company which was sold off
-in 1991.
+Techway had a 60% stake which was sold off in 1991.
 .[
 afr 1991
 .]

@@ -25,7 +25,7 @@
 
 %T Annual Report
 %A CSIRO DCR
-%P 27
+%P 32
 %D 1979-1980
 %K dcrar
 
@@ -84,6 +84,7 @@
 
 %T Workstations, UNIX and CSIRONET
 %A Peter Heweston
+%J CSIRONET news
 %N 174
 %P 8
 %D December 1983
@@ -137,13 +138,25 @@
 %P 96
 %D October 1984
 
+%T SIRONET
+%J CoResearch
+%N 157
+%P 1
+%D April 1972
+
+%T Dr Richard Tweedie
+%J CoResearch
+%N 259
+%P 5
+%O https://csiropedia.csiro.au/wp-content/uploads/2018/09/coresearch_1983.pdf
+%D February 1983
+
 %T Library link made
 %J CoResearch
 %N 273
 %P 6
 %D Oct/Sep 1984
 %O https://csiropedia.csiro.au/wp-content/uploads/2018/09/coresearch_1984.pdf
-%K coresearch
 
 %T New joint venture
 %J CoResearch
@@ -151,7 +164,6 @@
 %P 3
 %D February 1987
 %O https://csiropedia.csiro.au/wp-content/uploads/2018/09/coresearch_1987.pdf
-%K coresearch
 
 %T Our new computer
 %J Royal Australian Navy News
@@ -173,6 +185,13 @@
 %P 17
 %D April 1986
 %O http://nla.gov.au/nla.news-article118199584
+
+%T Hard decisions lead to wins for PAXUS ComNet
+%A Alison Foulsham
+%J The Canberra Times 
+%P 24
+%D May 1989
+%O http://nla.gov.au/nla.news-article122262721
 
 %T Csironet and Techway attack global markets
 %J Communications World
@@ -288,9 +307,9 @@
 %K acs
 %D 2017
 
-%T CSIRO Computing History, Chapter 3
-%K csiropedia-ch3
-%A Robert C. Bell
-%J CSIROpedia
-%D August 2019
-%O https://csiropedia.csiro.au/csiro-computing-history-chapter-3/#1967
+%T PAXUS COMNET PTY LIMITED (IN VOLUNTARY LIQUIDATION)
+%A M. C. Smith
+%J Commonwealth of Australia Gazette. Business
+%N B38
+%P 2292
+%D September 2000
