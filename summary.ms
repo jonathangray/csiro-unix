@@ -170,7 +170,7 @@ One of which was the CPU board.
 dcrar 1982-1983
 .]
 .PP
-It was decided to create an enhanced version of the Micronode
+There were plans to create an enhanced version of the Micronode
 hardware that could function as a Unix workstation.
 .[
 dcrar 1983-1984
@@ -296,6 +296,15 @@ cnar 1984
 System V Release 2.
 .[
 datamation 1984
+.]
+Neology sold a computer known as Neat.  An IBM PC-AT with a co-processor
+which ran System V Release 2.
+.[
+canberra 1985
+.]
+The Neat computer was announced at Infotex Canberra in November 1985.
+.[
+canberra 1985
 .]
 .SH
 Whitesmiths Australia
