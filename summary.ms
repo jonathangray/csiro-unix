@@ -281,7 +281,7 @@ The company was declared insolvent in November 1985.
 Rose 1992
 .]
 .PP
-Unix System V was ported to the ELXSI.
+A port of Unix System V to the ELXSI was completed in December 1984.
 .[
 Rose 1992
 .]
