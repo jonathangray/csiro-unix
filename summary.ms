@@ -68,9 +68,14 @@ amcxenix
 ycxenix
 .]
 .PP
-DMS had Motorola 68000 based Unity machines made by Digital Electronics Pty Ltd.
+DMS had Motorola 68000 based Unity machines from Digital Electronics Pty Ltd
+that ran System III and 4.2BSD.
 .[
 hales 1987
+.]
+Seemingly rebadged Integrated Solutions machines.
+.[
+baxter 1985
 .]
 .SH
 Information Mechanics Incorporated
