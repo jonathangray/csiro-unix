@@ -27,7 +27,7 @@ afr 1989
 .PP
 In 1980, DMS were running a version of Six Edition Unix
 developed by the Universities of New South Wales and Sydney.
-The Australian UNIX Share Access Method (AUSAM).
+The Australian Unix Share Accounting Method (AUSAM).
 .[
 dmsnl 70
 .]
