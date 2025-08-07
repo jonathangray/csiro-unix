@@ -227,6 +227,10 @@ Department of Defence in 1984.
 .[
 navy 1984
 .]
+One was also installed at the University of Melbourne in 1984.
+.[
+lions 1984
+.]
 .SH 
 Office Automation
 .PP
