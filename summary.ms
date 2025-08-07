@@ -283,6 +283,13 @@ Rose 1992
 .]
 In November 1984, Fawnray merged with Prance Computer Software Pty Ltd to become
 Fawnray Prance Ltd.
+Chris Maltby joined the company in December 1984.
+.[
+maltbycv
+.]
+.[
+Booth 1993
+.]
 In March 1985 the combined company changed its name to Neology Ltd.
 .[
 Neology 1985
