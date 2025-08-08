@@ -31,12 +31,15 @@ the Australian Unix Share Accounting Method (AUSAM).
 .[
 lions 1984
 .]
-This was influenced by the Share Scheduling scheme from the
-University of Cambridge.
+This was influenced by the Share Scheduling scheme
+described by John Larmouth at the University of Cambridge.
 .[
 lions 1984
 .]
-Andrew Hume did the initial implementation.
+.[
+hume 1979
+.]
+Andrew Hume did the initial Unix implementation.
 .[
 lions 1984
 .]
