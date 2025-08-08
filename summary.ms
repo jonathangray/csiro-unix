@@ -25,20 +25,47 @@ Siromath went into receivership in 1989.
 afr 1989
 .]
 .PP
-In 1980, DMS were running a version of Six Edition Unix
-developed by the Universities of New South Wales and Sydney.
-The Australian Unix Share Accounting Method (AUSAM).
+The Universities of New South Wales and Sydney implemented
+share scheduling for Unix, calling the resulting system
+the Australian Unix Share Accounting Method (AUSAM).
+.[
+lions 1984
+.]
+This was influenced by the Share Scheduling scheme from the
+University of Cambridge.
+.[
+lions 1984
+.]
+Andrew Hume did the initial implementation.
+.[
+lions 1984
+.]
+.PP
+In 1980, Chris Rowles of the Department of Chemical Engineering at
+the University of Sydney modified AUSAM to run on a PDP-11/34
+with RL01 disk drives.
+This version of AUSAM ran at three CSIRO sites.
+.[
+Rowles 1981
+.]
+In 1980, DMS were running a version of AUSAM based on Sixth Edition Unix.
 .[
 dmsnl 70
+.]
+.[
+Rowles 1981
+.]
+Chris joined Siromath in 1982 and was head of the Unix Group.
+.[
+auugn 1982
+.]
+.[
+csironetnl 168
 .]
 .PP
 The 1982 DMS annual report describes SIRONIX as a distribution of System III.
 .[
 dmsar 1982
-.]
-Chris Rowles was head of the Unix Group at Siromath.
-.[
-csironetnl 168
 .]
 An overview of SIRONIX
 mentioned Siromath would be offering binary licenses.
@@ -287,6 +314,9 @@ Rose 1992
 .]
 In November 1984, Fawnray merged with Prance Computer Software Pty Ltd to become
 Fawnray Prance Ltd.
+.[
+Rose 1992
+.]
 Chris Maltby joined the company in December 1984.
 .[
 maltbycv
