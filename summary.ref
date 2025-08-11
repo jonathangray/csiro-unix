@@ -12,6 +12,16 @@
 %V 1
 %N 5
 %D June-July 1979
+%K T1
+
+%T Terminal Interfaces (Part 2)
+%A Robert Elz
+%J AUUGN
+%P 17-23
+%V 2
+%N 2
+%D December 1979-January 1980
+%K T2
 
 %T UNIX Scheduling
 %A Andrew Hume
@@ -20,6 +30,14 @@
 %V 2
 %N 2
 %D December 1979
+
+%T Letter to Peter Ivanov
+%A Ken J. McDonell
+%J AUUGN
+%P 63
+%V 2
+%N 2
+%D December 1979-January 1980
 
 %T Email earnings 'encouraging'
 %J The Canberra Times
@@ -429,3 +447,8 @@
 %O ISBN 1-56592-582-3
 %O https://www.oreilly.com/openbook/opensources/book/kirkmck.html
 %D January 1999
+
+%T USENIX conference tape
+%D June 1980
+%C Delaware
+%O TUHS Applications/Spencer_Tapes/del.tar.gz delaware/melbourne.v7/

@@ -158,12 +158,24 @@ A VAX 11/780 was jointly purchased with another department in June 1979.
 .[
 unimelb vax
 .]
-An ELXSI 6400 was installed in 1984.
+In January 1980, the VAX ran UNIX/32V.
+.[
+mcdonell 1980
+.]
+By June 1980 it was running a customised version of 3BSD.
+.[
+delaware 1980
+.]
+An ELXSI 6400 computer was installed in 1984.
 .[
 lions 1984
 .]
+A port of 4.2BSD to the ELXSI was completed by early 1986.
+.[
+mack 1986
+.]
 .PP
-According to Thorne the Unison computer was developed by
+According to Thorne, the Unison computer was developed by
 Jurij Semkiw, Robert Elz and others including Steven Lynch and Michael Flower.
 .[
 unimelb jurij
@@ -176,7 +188,10 @@ elz 1984
 .]
 The terminal driver was reimplemented.
 .[
-elz 1979
+elz t1
+.]
+.[
+elz t2
 .]
 Robert Elz's device driver autoconfiguration code appeared in 4.1BSD.
 .[
@@ -187,10 +202,6 @@ Support for disk quotas was contributed to 4.2BSD.
 mckusick 1999
 .]
 .PP
-A port of 4.2BSD to the ELXSI 6400 computer was completed by early 1986.
-.[
-mack 1986
-.]
 Poole and his eldest daughter wrote an introductory book on Unix,
 published in 1986.
 .[
