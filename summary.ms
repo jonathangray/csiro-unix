@@ -178,6 +178,14 @@ The terminal driver was reimplemented.
 .[
 elz 1979
 .]
+Robert Elz's device driver autoconfiguration code appeared in 4.1BSD.
+.[
+mckusick 1999
+.]
+Support for disk quotas was contributed to 4.2BSD.
+.[
+mckusick 1999
+.]
 .PP
 A port of 4.2BSD to the ELXSI 6400 computer was completed by early 1986.
 .[

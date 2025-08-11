@@ -421,3 +421,11 @@
 %T The First port of Unix
 %A Juris Reinfelds
 %I University of Wollongong
+
+%T Twenty Years of Berkeley Unix
+%B Open Sources: Voices from the Open Source Revolution
+%A Marshall Kirk McKusick
+%I O'Reilly
+%O ISBN 1-56592-582-3
+%O https://www.oreilly.com/openbook/opensources/book/kirkmck.html
+%D January 1999
