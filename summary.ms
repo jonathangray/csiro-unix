@@ -31,7 +31,7 @@ the Australian Unix Share Accounting Method (AUSAM).
 .[
 lions 1984
 .]
-This was influenced by the Share Scheduling scheme
+This was influenced by the share scheduling scheme
 described by John Larmouth at the University of Cambridge.
 .[
 lions 1984
@@ -130,11 +130,63 @@ Unix to the Unison.
 .[
 holliercv
 .]
+.SH
+University of Melbourne
 .PP
-According to Peter Thorne the Unison computer was developed by
+Professor Peter Poole was head of the Computer Science Department
+from 1975-1990.
+.[
+unimelb heads
+.]
+Professor Peter Thorne was head of the department
+from 1990-1996.
+.[
+unimelb heads
+.]
+.PP
+The department acquired an Interdata 8/32 minicomputer in 1975
+.[
+unimelb interdata
+.]
+The University of Wollongong port of
+Sixth Edition Unix to the Interdata
+was sent to Melbourne in March 1978.
+.[
+reinfelds
+.]
+A VAX 11/780 was jointly purchased with another department in June 1979.
+.[
+unimelb vax
+.]
+An ELXSI 6400 was installed in 1984.
+.[
+lions 1984
+.]
+.PP
+According to Thorne the Unison computer was developed by
 Jurij Semkiw, Robert Elz and others including Steven Lynch and Michael Flower.
 .[
 unimelb jurij
+.]
+.PP
+The University of Melbourne implemented share scheduling as part of the
+MUSH resource controls.
+.[
+elz 1984
+.]
+The terminal driver was reimplemented.
+.[
+elz 1979
+.]
+.PP
+A port of 4.2BSD to the ELXSI 6400 computer was completed by early 1986.
+.[
+mack 1986
+.]
+Poole and his eldest daughter wrote an introductory book on Unix,
+published in 1986.
+.[
+poole 1986
 .]
 .SH
 L & L Australia
@@ -256,10 +308,6 @@ Techway sold an ELXSI 6400 computer to the Australian
 Department of Defence in 1984.
 .[
 navy 1984
-.]
-One was also installed at the University of Melbourne in 1984.
-.[
-lions 1984
 .]
 .SH 
 Office Automation

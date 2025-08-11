@@ -5,6 +5,14 @@
 %O https://csiropedia.csiro.au/wp-content/uploads/2019/08/CSIRO.DCR_.Newsletter.no_.28.pdf
 %K dcrnl
 
+%T Terminal Interfaces
+%A Robert Elz
+%J AUUGN
+%P 16-23
+%V 1
+%N 5
+%D June-July 1979
+
 %T UNIX Scheduling
 %A Andrew Hume
 %J AUUGN
@@ -229,6 +237,14 @@
 %D April 1986
 %O http://nla.gov.au/nla.news-article118199584
 
+%T 4.2BSD on the ELXSI 6400
+%A Andrew Mack
+%J AUUGN
+%V 7
+%N 1
+%P 13
+%D October 1986
+
 %T Hard decisions lead to wins for PAXUS ComNet
 %A Alison Foulsham
 %J The Canberra Times 
@@ -374,3 +390,34 @@
 %C Cambridge, England
 %P 46-57
 %D September 1984
+
+%T Resource Controls, Privileges, and other MUSH
+%A Robert Elz
+%J USENIX Summer Conference Proceedings
+%C Salt Lake City, Utah, USA
+%P 183-191
+%D June 1984
+
+%T Department of Computer Science Heads
+%I University of Melbourne
+%D 2006
+%O https://collections.eng.unimelb.edu.au/imu/?record=ecatalogue.2776
+
+%T Using Unix by Example
+%A P. C. Poole
+%A N. Poole 
+%I Addison-Wesley
+%D 1986
+%O ISBN 978-0201185355
+
+%T Interdata 8/32 Minicomputer, 1975
+%I University of Melbourne, Engineering and Information Technology Collection
+%O https://collections.eng.unimelb.edu.au/imu/?record=enarratives.9
+
+%T Vax 11/780 Minicomputer, 1979
+%I University of Melbourne, Engineering and Information Technology Collection
+%O https://collections.eng.unimelb.edu.au/imu/?record=enarratives.17
+
+%T The First port of Unix
+%A Juris Reinfelds
+%I University of Wollongong
