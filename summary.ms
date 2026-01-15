@@ -422,6 +422,11 @@ System V Release 2.
 .[
 datamation 1984
 .]
+Neology developed a version of System V Release 2 for
+Labtam International's Series 3200 computers.
+.[
+labtam 1985
+.]
 Neology sold a computer known as Neat.  An IBM PC-AT with a co-processor
 which ran System V Release 2.
 .[
