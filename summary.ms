@@ -469,7 +469,14 @@ Aurema was sold to Citrix in 2007.
 .[
 itnews 2007
 .]
-.PP
+.LP
+Softway was a distributor of System V binary licenses.  This was made
+possible through an agreement with Unisearch Ltd, a UNSW commercial research
+organisation, which held a Unix license.
+.[
+softway distributor 1986
+.]
+.LP
 Softway completed the Unix port to the CSIRONET machine started at Neology.
 .[
 Rose 1992
